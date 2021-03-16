@@ -1,0 +1,17 @@
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : March 16, 2021 3:04:37 PM
+   Source : C:\Users\sjsha\Documents\05_Misc\Misc Project Repos\iCloudFileCopy\FROMPATH-2\
+     Dest : C:\Users\sjsha\Documents\05_Misc\Misc Project Repos\iCloudFileCopy\TOPATH-2\
+
+    Files : *.*
+	    
+  Options : *.* /TEE /S /E /DCOPY:DA /COPY:DAT /PURGE /MIR /NP /R:1000000 /W:30 
+
+------------------------------------------------------------------------------
+
+2021/03/16 15:04:37 ERROR 2 (0x00000002) Accessing Source Directory C:\Users\sjsha\Documents\05_Misc\Misc Project Repos\iCloudFileCopy\FROMPATH-2\
+The system cannot find the file specified.
